@@ -1,1 +1,0 @@
-# HMAC-Authentication-Demo
